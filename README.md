@@ -1,2 +1,2 @@
 # SimpleBusinessCard
-Simple template of e-businnes card. Can be used with NFC-tags.
+Simple template of e-business card. Can be used with NFC-tags.
